@@ -1,0 +1,55 @@
+product_id,category,product_name,unit_price
+PROD001,Electronics,Wireless Mouse,24.99
+PROD002,Electronics,Bluetooth Headphones,59.99
+PROD003,Electronics,USB-C Cable 1m,9.99
+PROD004,Electronics,Laptop Stand,34.99
+PROD005,Electronics,Portable Charger,39.99
+PROD006,Electronics,Mechanical Keyboard,89.99
+PROD007,Electronics,Smart LED Bulb,14.99
+PROD008,Electronics,Webcam HD,49.99
+PROD009,Fitness,Yoga Mat,29.99
+PROD010,Fitness,Resistance Bands Set,19.99
+PROD011,Fitness,Foam Roller,22.99
+PROD012,Fitness,Stainless Water Bottle,18.99
+PROD013,Fitness,Running Belt,16.99
+PROD014,Fitness,Jump Rope,12.99
+PROD015,Fitness,Gym Towel,8.99
+PROD016,Home,Ceramic Coffee Mug,11.99
+PROD017,Home,Cotton Bedsheet Set,44.99
+PROD018,Home,Scented Candle,15.99
+PROD019,Home,Desk Organizer,17.99
+PROD020,Home,Reusable Shopping Bags,13.99
+PROD021,Home,Kitchen Scale,21.99
+PROD022,Home,Glass Food Containers,27.99
+PROD023,Stationery,Daily Planner Notebook,12.99
+PROD024,Stationery,Ballpoint Pen Set,6.99
+PROD025,Stationery,Sticky Notes Pack,4.99
+PROD026,Stationery,A5 Sketchbook,9.99
+PROD027,Stationery,Desk Calendar,10.99
+PROD028,Stationery,Highlighter Set,7.99
+PROD029,Beauty,Vitamin C Serum,18.99
+PROD030,Beauty,Hydrating Face Cream,24.99
+PROD031,Beauty,SPF 50 Sunscreen,21.99
+PROD032,Beauty,Lip Balm Trio,8.99
+PROD033,Beauty,Makeup Brush Set,19.99
+PROD034,Beauty,Body Lotion,14.99
+PROD035,Beauty,Shampoo Bar,9.99
+PROD036,Grocery,Organic Green Tea,7.99
+PROD037,Grocery,Dark Chocolate 70%,3.99
+PROD038,Grocery,Premium Coffee Beans,15.99
+PROD039,Grocery,Protein Granola,6.99
+PROD040,Grocery,Olive Oil 500ml,12.99
+PROD041,Grocery,Almond Butter,9.99
+PROD042,Accessories,Canvas Backpack,39.99
+PROD043,Accessories,Leather Wallet,29.99
+PROD044,Accessories,Travel Pouch,17.99
+PROD045,Accessories,Sunglasses,24.99
+PROD046,Accessories,Baseball Cap,15.99
+PROD047,Accessories,Phone Case,13.99
+PROD048,Accessories,Tote Bag,12.99
+PROD049,Baby,Baby Blanket,22.99
+PROD050,Baby,Silicone Bib Set,14.99
+PROD051,Baby,Wooden Teether,10.99
+PROD052,Baby,Baby Board Book,8.99
+PROD053,Baby,Stacking Cups Toy,13.99
+PROD054,Baby,Baby Bath Towel,18.99
