@@ -111,7 +111,7 @@ The processed data is used to build an interactive dashboard including:
 
 ### Screenshot
 
-![Screenshot of Power BI dashboard](/dashboard/dashboard_screenshot.png "Power BI Dashboard Screenshot")
+![Screenshot of Power BI dashboard](/dashboard/dashboard_screenshot.png?raw=true "Power BI Dashboard Screenshot")
 
 ---
 
@@ -151,7 +151,7 @@ Revenue growth is primarily driven by a few key categories and markets, with not
 
 Senior Data Analyst | Product Analytics | Experimentation & Decision
 
-[Linkedin]("https://www.linkedin.com/in/ignacio-spreafico")
+[Linkedin](https://www.linkedin.com/in/ignacio-spreafico)
 [Github]("https://www.github.com/nachospreafico")
 [Website]("https://ignaciospreafico.vercel.app")
 
