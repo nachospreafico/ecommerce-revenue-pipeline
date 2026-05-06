@@ -151,9 +151,10 @@ Revenue growth is primarily driven by a few key categories and markets, with not
 
 Senior Data Analyst | Product Analytics | Experimentation & Decision
 
-[Linkedin](https://www.linkedin.com/in/ignacio-spreafico)
-[Github]("https://www.github.com/nachospreafico")
-[Website]("https://ignaciospreafico.vercel.app")
+📧 Email: **nachospreafico06@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ignacio-spreafico)  
+📊 [Portfolio](https://ignaciospreafico.vercel.app)  
+🐙 [GitHub](https://github.com/nachospreafico)  
 
 ---
 
