@@ -29,6 +29,8 @@ def main():
     monthly_revenue.to_csv(f"{output_path}/monthly_revenue.csv", index=False, sep=";", decimal=",")
     category_revenue.to_csv(f"{output_path}/category_revenue.csv", index=False, sep=";", decimal=",")
     customer_summary.to_csv(f"{output_path}/customer_summary.csv", index=False, sep=";", decimal=",")
+    
+    # Final table to use in Power BI Dashboard
     merged.to_csv(f"{output_path}/merged_data.csv", index=False, sep=";", decimal=",")
 
 if __name__ == "__main__":
